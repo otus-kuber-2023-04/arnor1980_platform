@@ -28,7 +28,7 @@
 ### Задача #1
     - kubectl describe clusterrolebindings.rbac.authorization.k8s.io bob-clusterrolebinding
 
-### Задача #3
+### Задача #2
     - kubectl describe sa carol -n prometheus
     - kubectl describe clusterrole cluster-pod-reader
     - kubectl describe clusterrolebindings.rbac.authorization.k8s.io prometheus-cluster-pod-read
